@@ -1,18 +1,16 @@
 body {
-    margin: 40px 0 0 0;
-    font-family: sans-serif;
+    margin: 50px 200px;
+    text-transform: uppercase;
 }
 
-.wrapper {
-    width: 920px;
-    margin: 0 auto;
+h1 {
+    color: blue;
 }
 
-.featured {
-    width: 100%;
+.ite {
     float: left;
     position: relative;
-    margin-bottom: 50px;
+    margin-right: 20px;
 }
 
 .item {
@@ -20,18 +18,12 @@ body {
     position: relative;
 }
 
-.whoswho {
-    width: 100%;
-    position: relative;
+p {
+    font-weight: bold;
+}
+
+.items {
     float: left;
-    margin-bottom: 50px;
-}
-
-.wonderwomen {
-    margin-left: 20px;
-}
-
-h1 {
-    color: #0282F9;
-    font-size: 40px;
+    position: relative;
+    width: 100%;
 }
